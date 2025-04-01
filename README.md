@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SR15KT
 - 👀 I’m interested in UI Automation  & API Automation.
-- 🌱 I’m currently learning Appium for mobile Automation...
+- 🌱 I’m currently learning PlayWight for UI Automation...
 - 💞️ I’m looking to collaborate on Testing Projects Especially for Automation.
 - 📫 How to reach me <sr15kt.dev@gmail.com>
 - 😄 Pronouns: He/Him.
