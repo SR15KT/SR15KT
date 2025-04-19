@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @SR15KT
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shiva+Tummapalli!;" />
+</h1>
 - 👀 I’m interested in UI Automation  & API Automation.
 - 🌱 I’m currently learning PlayWight for UI Automation...
 - 💞️ I’m looking to collaborate on Testing Projects Especially for Automation.
