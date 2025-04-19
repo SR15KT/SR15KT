@@ -2,6 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shiva+Tummapalli!;" />
 </h1>
 
+
 # Portfolio
 Welcome to my GitHub repository! I'm an experienced Automation Tester with a strong background in various testing technologies and frameworks. This repository showcases my skills and contributions in automation testing.
 
